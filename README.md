@@ -10,8 +10,6 @@
 
 => Complete Profile
 
-=> OTP Verification
-
 => Home Page
 
 => Product Details
